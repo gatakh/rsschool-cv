@@ -19,6 +19,13 @@
 
 - Experience with software, hardware & network products
 
+ ### Code Example
+     function sum(a, b) { 
+     return a + b; 
+       }  
+      let result = sum(1, 2);
+       alert( result ); 
+
  ### Education and Training
  
 - Eastern academy of economics and law, bachelor's degree
