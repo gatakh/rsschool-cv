@@ -9,7 +9,7 @@
  - **Email:** g.atakhanova@ya.ru
  
  - **GitHub** [gatakh](https://github.com/gatakh)
- 
+
  ### About me
  
  I am a young specialist with a great desire to learn and become a professional. I want to develop in the field of IT in order to realize my craving for method and orderliness. I have a passion for learning and developing new and existing skills, and solving problems with analytical methods.
