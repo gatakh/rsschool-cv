@@ -8,7 +8,7 @@
  
  - **Email:** g.atakhanova@ya.ru
  
- - **GitHub** [gatakh](https://github.com/gatakh)
+ - **GitHub** [gatakh](https://github.com/gatakh) 
 
 ### About me
  
