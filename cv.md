@@ -20,7 +20,7 @@
 
 - Experience with software, hardware & network products
 
- ### Code Example
+### Code Example
  
      function sum(a, b) { 
      return a + b; 
@@ -28,13 +28,12 @@
       let result = sum(1, 2);
        alert( result ); 
 
- ### Education and Training
+### Education and Training
  
 - Eastern academy of economics and law, bachelor's degree
 
 - University of Economics Plekhanov, retraining program
 
-
- ### English
+### English
  
 [EF SET Certificate™, confirming the level of language proficiency at level C1](https://www.efset.org/cert/cG3hKP)
