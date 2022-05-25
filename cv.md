@@ -1,6 +1,6 @@
- ## Galina Atakhanova
- 
- ### Contacts
+## Galina Atakhanova
+
+### Contacts
  
  - **Location:** Saint-Petersburg, Russia
  
