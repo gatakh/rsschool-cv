@@ -10,7 +10,7 @@
  
  - **GitHub** [gatakh](https://github.com/gatakh)
  
- ### About me 
+ ### About me
  
  I am a young specialist with a great desire to learn and become a professional. I want to develop in the field of IT in order to realize my craving for method and orderliness. I have a passion for learning and developing new and existing skills, and solving problems with analytical methods.
  
@@ -21,13 +21,14 @@
 - Experience with software, hardware & network products
 
  ### Code Example
+ 
      function sum(a, b) { 
      return a + b; 
        }  
       let result = sum(1, 2);
        alert( result ); 
 
- ### Education and Training ###
+ ### Education and Training
  
 - Eastern academy of economics and law, bachelor's degree
 
@@ -35,4 +36,5 @@
 
 
  ### English
+ 
 [EF SET Certificate™, confirming the level of language proficiency at level C1](https://www.efset.org/cert/cG3hKP)
