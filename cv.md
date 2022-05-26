@@ -1,3 +1,7 @@
+
+
+[](https://disk.yandex.ru/i/qFbUeJ4wRRkM6Q)
+
 ## Galina Atakhanova ##
 
 ### Contacts
