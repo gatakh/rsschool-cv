@@ -1,6 +1,4 @@
-
-
-[](https://disk.yandex.ru/i/qFbUeJ4wRRkM6Q)
+ [](https://disk.yandex.ru/i/qFbUeJ4wRRkM6Q)
 
 ## Galina Atakhanova ##
 
