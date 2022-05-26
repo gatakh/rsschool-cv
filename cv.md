@@ -1,5 +1,5 @@
-
-<https://disk.yandex.ru/i/qFbUeJ4wRRkM6Q>
+ 
+![](https://disk.yandex.ru/client/disk?idApp=client&dialog=slider&idDialog=%2Fdisk%2Fphoto1.svg)
 
 ## Galina Atakhanova ##
 
