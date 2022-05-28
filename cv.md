@@ -12,6 +12,7 @@
  - **Email:** g.atakhanova@ya.ru
  
  - **GitHub** [gatakh](https://github.com/gatakh) 
+ 
  - **Discord:** gatakh
  
 
